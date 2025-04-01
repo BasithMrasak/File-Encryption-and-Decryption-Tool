@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\basit\\Downloads\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib\\javafx.graphics.jar",
+        "c:\\Users\\basit\\Downloads\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib\\javafx.media.jar",
+        "c:\\Users\\basit\\Downloads\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib\\javafx.swing.jar",
+        "c:\\Users\\basit\\Downloads\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib\\javafx.web.jar",
+        "c:\\Users\\basit\\Downloads\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib\\jdk.jsobject.jar",
+        "c:\\Users\\basit\\Downloads\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib\\jfx.incubator.input.jar",
+        "c:\\Users\\basit\\Downloads\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib\\jfx.incubator.richtext.jar",
+        "c:\\Users\\basit\\Downloads\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib\\javafx.base.jar",
+        "c:\\Users\\basit\\Downloads\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib\\javafx.controls.jar",
+        "c:\\Users\\basit\\Downloads\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib\\javafx.fxml.jar",
+        "c:\\Users\\basit\\Downloads\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib\\javafx-swt.jar"
+    ]
+}

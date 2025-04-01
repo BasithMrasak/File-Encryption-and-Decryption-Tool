@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FileEncryptionApp",
+            "request": "launch",
+            "mainClass": "FileEncryptionApp",
+            "projectName": "FED-java_3e491103",
+            "vmArgs": "--module-path \"C:/Users/basit/Downloads/openjfx-24_windows-x64_bin-sdk/javafx-sdk-24/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "FED-java_3e491103",
+            "vmArgs": "--module-path \"C:/Users/basit/Downloads/openjfx-24_windows-x64_bin-sdk/javafx-sdk-24/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path \"C:/Users/basit/Downloads/openjfx-24_windows-x64_bin-sdk/javafx-sdk-24/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
