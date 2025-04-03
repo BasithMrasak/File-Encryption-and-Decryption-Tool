@@ -1,4 +1,5 @@
-🔐 File Encryption and Decryption Tool
+**🔐 File Encryption and Decryption Tool**
+
 A JavaFX-based application that allows users to securely encrypt and decrypt files using AES encryption with password protection.
 
 ✨ Features
